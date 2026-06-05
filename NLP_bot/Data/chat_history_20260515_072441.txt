@@ -1,0 +1,12 @@
+You: Hi
+Bot: Good morning. I hope you had a good night's sleep. How are you feeling today? 
+
+You: How to treat fever?
+Bot: To treat a fever at home: 1)Drink plenty of fluids to stay hydrated. 2)Dress in lightweight clothing. 3)Use a light blanket if you feel chilled, until the chills end. 4)Take acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others). 5) Get medical help if the fever lasts more than five days in a row.
+
+You: Thank you for the info
+Bot: Welcome! I'm an AI chatbot specializing in providing support and information on fitness, nutrition, and injury recovery. Feel free to ask me anything!
+
+You: Sure
+Bot: Hey! What can I do for you?
+
